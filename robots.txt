@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dresden.softwareentwickler.app/sitemap.xml
